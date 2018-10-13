@@ -1,0 +1,24 @@
+{
+  "name": "quicktools",
+  "version": "1.0.0",
+  "description": "Some quick prototyping tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floh1695/quicktools.git"
+  },
+  "keywords": [
+    "quick",
+    "tools",
+    "prototyping"
+  ],
+  "author": "Charles Bayley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floh1695/quicktools/issues"
+  },
+  "homepage": "https://github.com/floh1695/quicktools#readme"
+}
